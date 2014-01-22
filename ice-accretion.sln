@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "read-t639-850t", "read-ec-850t\read-ec-850t.vcxproj", "{CA39C4C0-AB6B-46BD-BF94-4107845143BF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UtilTimerTest", "..\PocoSimpleUse\UtilTimer\UtilTimerTest.vcxproj", "{C609C1E3-EB9A-4A51-BC09-046C5E5FDF45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA39C4C0-AB6B-46BD-BF94-4107845143BF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CA39C4C0-AB6B-46BD-BF94-4107845143BF}.Debug|Win32.Build.0 = Debug|Win32
+		{CA39C4C0-AB6B-46BD-BF94-4107845143BF}.Release|Win32.ActiveCfg = Release|Win32
+		{CA39C4C0-AB6B-46BD-BF94-4107845143BF}.Release|Win32.Build.0 = Release|Win32
+		{C609C1E3-EB9A-4A51-BC09-046C5E5FDF45}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C609C1E3-EB9A-4A51-BC09-046C5E5FDF45}.Debug|Win32.Build.0 = Debug|Win32
+		{C609C1E3-EB9A-4A51-BC09-046C5E5FDF45}.Release|Win32.ActiveCfg = Release|Win32
+		{C609C1E3-EB9A-4A51-BC09-046C5E5FDF45}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
